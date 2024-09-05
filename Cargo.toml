@@ -6,3 +6,4 @@ authors = ["Ramchandhar Rapolu <hiramrapolu@gmail.com>"]
 
 [dependencies]
 rand = "0.8.5"
+rprompt = "2.1.1"
